@@ -1,0 +1,7 @@
+*{margin:0px auto;}
+body{background:#f3f3f3; font-family:calibri, verdana, sans-serif; line-height:1.5em;}
+
+/*layout*/
+header{background:#e7e7e7; padding:10px; border-bottom:4px solid #22a7a7;}
+header h1{line-height:1em; margin:auto;}
+#slideshow{background:#444; height:400px;}
